@@ -94,11 +94,6 @@ var listOfQuestions = [{
 ];
 
 var score = 0;
-/*var highestScorers = [{
-  name:
-  score:
-  rank:
-}];*/
 
 var levelOne = listOfQuestions.length/2;
 
